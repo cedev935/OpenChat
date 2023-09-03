@@ -14,7 +14,7 @@
 ![](https://gcdnb.pbrd.co/images/gjX4atjx9uKT.png?o=1)
 
 ------
-# 🔥 OpenChat
+# 🔥 About OpenChat
 
 ---- 
 OpenChat is an everyday user chatbot console that simplifies the utilization of large language models. With the advancements in AI, the installation and usage of these models have become overwhelming. OpenChat aims to address this challenge by providing a two-step setup process to create a comprehensive chatbot console. It serves as a central hub for managing multiple customized chatbots.
